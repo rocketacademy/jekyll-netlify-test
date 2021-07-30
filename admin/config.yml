@@ -36,6 +36,10 @@ collections: # A list of collections the CMS should be able to edit
   - name: "page"
     label: "Page"
     folder: "pages"
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     sort: "title:asc"
     create: false
     slug: "{{slug}}"
