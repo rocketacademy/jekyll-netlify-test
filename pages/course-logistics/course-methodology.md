@@ -1,3 +1,15 @@
+---
+layout: page
+title: Course Methodology
+meta_description: |
+  Course Methodology
+permalink: /course-logistics/course-methodology
+section: course-methodology
+intro_paragraph: |
+  Hey Course MMMMmmmmmmm
+---
+
+
 # ✍🏽 Course Methodology
 
 ## Class Organisation

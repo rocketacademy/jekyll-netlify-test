@@ -68,6 +68,9 @@ kramdown:
 #  - _redirects
 #  - _headers
 
+plugins:
+- jekyll-relative-links
+
 # Exclude from processing.
 # The following items will not be processed.
 exclude:
